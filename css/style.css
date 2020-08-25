@@ -4,6 +4,10 @@
   font-family: "Open Sans";
   text-decoration: none;
 }
+.video-input{
+     display: none;
+}
+
 .jlplayer-video,
 .jlplayer-video *,
 .jlplayer-video::after,
